@@ -19,8 +19,6 @@ Hi there! I'm Ayca Basaran, a computer science master’s student with a passion
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Office Suite](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F44A3E?style=for-the-badge&logo=DeepLearning&logoColor=white)
 
 ## 🤖 What I'm currently working on:
