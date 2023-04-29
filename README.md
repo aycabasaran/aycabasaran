@@ -1,6 +1,6 @@
-# 👋 Welcome to Ayca Basaran's GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Ayca Basaran, a computer science master’s student with a passion for artificial intelligence and data analysis. I strive to apply my skills to develop innovative solutions that positively impact businesses and people.
+Hi there! I'm Ayca, a computer science master’s student with a passion for artificial intelligence and data analysis. I strive to apply my skills to develop innovative solutions that positively impact businesses and people.
 
 ## 🚀 About Me:
 
