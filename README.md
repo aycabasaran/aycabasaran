@@ -24,8 +24,7 @@ Hi there! I'm Ayca, a computer science master’s student with a passion for art
 ## 🤖 What I'm currently working on:
 
 - 🔍 Researching and implementing machine learning models and algorithms
-- 📊 Developing data-driven solutions for real-world problems
-- 🌐 Expanding my knowledge of cloud platforms and big data tools
+- 🌐 Expanding my knowledge of computer vision and big data tools
 
 ## 🏆 Achievements:
 
