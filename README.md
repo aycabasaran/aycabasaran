@@ -6,7 +6,7 @@ Hi there! I'm Ayca, a computer science master’s student with a passion for art
 
 - 🎓 Pursuing a Master's in Computer Science & Business Technology, with a specialization in AI
 - 💼 Former Strategy Analyst at KPMG, with experience in data analysis, project management and client communication
-- 🎹 ABRSM Grade 8 pianist and former member of the KU Orchestra
+- 🎹 Pianist and former member of the KU Orchestra
 - 🌎 Fluent in English and Turkish, with intermediate Spanish skills
 - 💡 Committed to lifelong learning and staying at the forefront of technology
 
