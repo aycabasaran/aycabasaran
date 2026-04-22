@@ -1,19 +1,20 @@
-# Ayca Basaran
+## Ayca Basaran
 
-AI and data-focused professional with experience across analytics, product, and strategy.
+AI + data-focused professional working across analytics, product, and strategy.
 
-## Focus areas
-- Machine learning and data analysis  
-- Product and decision analytics  
-- Computer vision and scalable data systems  
+### 🔎 Focus
+- Machine learning & data analysis  
+- Product & decision analytics  
+- Computer vision & scalable data systems  
 
-## Tools
+### 🛠️ Tools
 Python · SQL · C# · JavaScript · Google Cloud  
 
-## Background
+### 🎹 Background
 - Strategy & analytics experience (ex-KPMG)  
-- Piano training and orchestral experience  
+- Piano training & orchestral experience  
 - English / Turkish / Spanish (intermediate)  
 
-## Links
+### 🌐 Links
 - LinkedIn: https://www.linkedin.com/in/ayca-basaran  
+- GitHub: https://github.com/aycabasaran  
